@@ -1,0 +1,3 @@
+# pseis
+proyecto seis
+ESTO CORRESPONDE  AL DESAFIO 6 DE DATA SCIENCE....
